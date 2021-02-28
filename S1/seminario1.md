@@ -3,6 +3,8 @@
 <div style="text-align: justify">
 Lo primero que haremos será instalar el emulador DOSBox que recrea un entorno similar al del sistema DOS, para ello solo será necesaria la ejecución de un comando en el terminal del sistema operativo anfitrión (Ubuntu 20.04 LTS):
 
+
+
 ```Bash
 sudo apt-get install dosbox
 ```
@@ -34,6 +36,8 @@ cls
 <div style="text-align: justify">
 Para comprobar que todo funciona adecuadamente modificaré como se propone en el seminario el programa en ensamblador hola.asm de forma que este imprima 7 veces hola. Además he añadido un salto de línea al final de cada hola para mejorar la salida por pantalla quedando dicho fichero como se muestra:
 </div>
+
+
 
 ```Bash
 pila segment stack 'stack'
