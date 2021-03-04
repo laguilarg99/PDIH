@@ -10,7 +10,7 @@ sudo apt-get install dosbox
 ```
 
 
-Posteriormente añadimos las líneas necesarias al final del fichero de configuración de DOSBox para que de esta forma cada vez que se ejecute dicho emulador lo haga montando nuestro directorio de trabajo BIN con todos los ejecutables necesarios durante la realización de las prácticas:
+Posteriormente añadimos las líneas necesarias al final del fichero de configuración de DOSBox para que de esta forma cada vez que se ejecute dicho emulador lo haga montando nuestro directorio de trabajo:
 </div>
 
 ```Bash
@@ -24,14 +24,18 @@ Posteriormente añadimos las líneas necesarias al final del fichero de configur
 #Teclado español
 keyb sp
 
-#Montamos nuestro directorio de trabajo en el disco C
-mount C /home/luis/UNI/2/PIDH/PrácticasAUX/bc/BIN
+#Montamos el directorio DOSBox
+mount C /home/luis/UNI/2/PIDH/PrácticasAUX/DOSBOX
 
-#Nos movemos al disco C:
+#Path donde estarán los ejecutables para compilación y enlazado
+path c:\bc\bin
+
+#Nos movemos al disco C donde está nuestro directorio de trabajo montado
 C:
 
 #Limpiamos el terminal
 cls
+
 ```
 
 <div style="text-align: justify">
