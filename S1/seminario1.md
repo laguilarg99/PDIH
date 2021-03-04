@@ -1,7 +1,7 @@
 <h1>Sesión 1</h1>
 
 <div style="text-align: justify">
-Lo primero que haremos será instalar el emulador DOSBox que recrea un entorno similar al del sistema DOS, para ello solo será necesaria la ejecución de un comando en el terminal del sistema operativo anfitrión (Ubuntu 20.04 LTS):
+Lo primero que haremos será instalar el emulador DOSBox que recrear un entorno similar al del sistema DOS, para ello solo será necesaria la ejecución de un comando en el terminal del sistema operativo anfitrión (Ubuntu 20.04 LTS):
 
 
 
@@ -46,6 +46,7 @@ _ _ _ _
 <div style="text-align:center"><img src="escritorio.png" /></div>
 
 _ _ _ _
+
 <div style="text-align: justify">
 Para comprobar que todo funciona adecuadamente ejecutaré el clásico juego DOOM:
 </div>
