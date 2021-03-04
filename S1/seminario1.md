@@ -33,8 +33,31 @@ C:
 #Limpiamos el terminal
 cls
 ```
+
 <div style="text-align: justify">
-Para comprobar que todo funciona adecuadamente modificaré como se propone en el seminario el programa en ensamblador hola.asm de forma que este imprima 7 veces hola. Además he añadido un salto de línea al final de cada hola para mejorar la salida por pantalla quedando dicho fichero como se muestra:
+Para comprobar que todo funciona adecuadamente ejecutaré el clásico juego DOOM:
+</div>
+
+_ _ _ _
+
+<div style="text-align:center"><img src="doom.png" /></div>
+
+_ _ _ _
+
+
+<div style="text-align: justify">
+Ahora ejecutaré en un principio hola.asm para posteriormente modificarlo como se propone en el seminario de forma que este imprima 7 veces hola:
+</div>
+
+_ _ _ _
+
+<div style="text-align:center"><img src="hola.png" /></div>
+
+_ _ _ _
+
+
+<div style="text-align: justify">
+He añadido un salto de línea al final de cada hola para mejorar la salida por pantalla quedando dicho fichero como se muestra:
 </div>
 
 
@@ -81,5 +104,5 @@ _ _ _ _
 
 _ _ _ _
 <div style="text-align: justify">
-En la imagen de arriba tras hacer la compilación y el enlazado con los programas TASM.EXE y TLINK.EXE del paquete Turbo Assembler de Borland podemos observar la correcta ejecución de hola.asm.
+En la imagen de arriba tras hacer la compilación y el enlazado con los programas TASM.EXE y TLINK.EXE del paquete Turbo Assembler de Borland podemos observar la correcta ejecución de hola.asm modificado.
 </div>
