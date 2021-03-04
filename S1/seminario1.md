@@ -37,7 +37,15 @@ C:
 cls
 
 ```
+<div style="text-align: justify">
+Quedando nuestro emulador DOSBox como se muestra:
+</div>
 
+_ _ _ _
+
+<div style="text-align:center"><img src="escritorio.png" /></div>
+
+_ _ _ _
 <div style="text-align: justify">
 Para comprobar que todo funciona adecuadamente ejecutaré el clásico juego DOOM:
 </div>
