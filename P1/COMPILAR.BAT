@@ -1,0 +1,1 @@
+bcc -Ic:\bc\include -Lc:\bc\lib EXTRA1.C MYCONIO.C
