@@ -17,11 +17,11 @@
 
 /* key matrix pins */
 #define MATRIX_ROW_PINS { B0, F1, F4, F6, C7 }
-#define MATRIX_COL_PINS { F0, D4, F7, F5 }
+#define MATRIX_COL_PINS { F5, F7, D4, F0 }
 #define UNUSED_PINS
 
 /* COL2ROW or ROW2COL */
-#define DIODE_DIRECTION ROW2COL
+#define DIODE_DIRECTION COL2ROW
 
 /* number of backlight levels */
 
