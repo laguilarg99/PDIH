@@ -54,7 +54,7 @@ Hay que hacer una matriz con los interruptores haciendo que en las filas los int
 
 Una vez hecho estoy hay que hacer que cada fila y cada columna esté conectada a un pin I/O del microcontrolador.
 
-![Alt text](./img/photo_2021-03-19_17-09-47.jpg?raw=true
+![Alt text](./img/photo_2021-03-19_17-09-47.jpg?raw=true)
 
 Finalmente se comprueba que todas las soldaduras están hechas de la forma adecuada.
 
